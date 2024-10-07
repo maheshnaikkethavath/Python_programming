@@ -1,0 +1,5 @@
+tup=(1,2,3,"mahesh","umesh","arvind")
+print("elements in tuples are : ",tup)
+print("first element is: ",tup[0])
+print("fourth element is: ",tup[3])
+print("last element is: ",tup[-1])
