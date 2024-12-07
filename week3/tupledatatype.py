@@ -1,7 +1,0 @@
-tup=(4,5.6,"mahesh naik",['mango','orange','banana'],{"name":"mahesh","roll":"24075A6702"})
-print("all elements in tuple are",tup)
-print("integer number  is :",tup[0])
-print("floating number is  ",tup[1])
-print("string is: ",tup[2])
-print("list is: ",tup[3])
-print("dictionary is: ",tup[4])
